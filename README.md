@@ -48,7 +48,7 @@ Stores scheduled activities associated with user accounts. Share codes allow use
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CameronCuevas7/LinkUp.git
    ```
 
 2. Open the project in Qt Creator.
