@@ -1,0 +1,30 @@
+A summary of what you have accomplished as a team in light of the list of
+software requirements you were approved to work on for this stage:
+
+
+-The creation of the compare schedule feature was implemented properly. Previously, this feature did not
+make it into stage 5 because it was broken and crashed the program. However, you can now freely compare
+your schedule with anyone, (as long as you have their share code ) :).
+
+-The implementation of the delete button: now events can be properly deleted and changed!
+
+-The ability to change user credentials. Each of these features has their own window in the new app.
+
+-I have not mentioned the fact that the GUI aspect of the application should also be taken into consideration.
+ Each now case has their own window and design.
+
+THIS, along with general bug fixes. Now the program does not crash. (Hooray!)
+
+
+Each member participated in testing the application that Cameron has been implementing. Members used
+white and black box testing in order to get their results.
+
+
+
+IMPORTANT: Line 127 of mainwindow.h, "void on_pushButton_del_clicked" may need to be commented out.
+For some reason, this was causing an issue in some laptops. Unsure why this is not replicable some
+computers.
+
+
+
+Thank you professor for being so understanding. Other stages will now be submitted. YOU WERE A HUGE HELP.
